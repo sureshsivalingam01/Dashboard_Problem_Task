@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Elite Jobs</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="hello_name">Hello, %s! 👋</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="job_stats">Job Stats</string>
+    <string name="invoice_stats">Invoice Stats</string>
+    <string name="jobs_with_count_with_bracket">Jobs (%1$d)</string>
+    <string name="job_status_with_count">%1$s (%2$d)</string>
+    <string name="job_number">#%d</string>
+    <string name="jobs_with_completed">%1$d of %2$d completed</string>
+    <string name="start_arrow_end_date">%1$s \u2192 %2$s</string>
+    <string name="today_start_and_end">Today %1$s - %2$s</string>
+    <string name="total_invoice_amount">Total value {$%d}</string>
+    <string name="total_invoice_collected_amount">$%d collected</string>
+    <string name="invoice_status_with_amount">%1$s {$%2$d}</string>
+
+    <plurals name="jobs_with_count">
+        <item quantity="one">%d Job</item>
+        <item quantity="other">%d Jobs</item>
+    </plurals>
+
+    <string name="back_button">Back Button</string>
+</resources>
